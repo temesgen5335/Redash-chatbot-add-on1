@@ -1,12 +1,16 @@
 # Redash-chatbot-add-on
 The Redash Chatbot LLM is an innovative integration that brings the power of OpenAI's ChatGPT model to your Redash dashboard. This integration allows users to interact with their Redash dashboards using natural language queries, making data exploration and analysis more intuitive and user-friendly. The Redash Chatbot LLM plugin provides conversational query capabilities, automated data visualization, and seamless integration with Redash. The project leverages Docker for easy setup and deployment, making it easy for users to get started with the integration.
 
-## Table of Contents
-    Project Overview
-    Buisness Need
-    setup
-	Project Structure
-	Licences
+# Table of Contents
+- [Project Overview](#project-overview)
+- [Business Need](#business-need)
+- [Features](#features)
+- [Project Structure](#project-structure)
+- [Setup](#setup)
+  - [Prerequisite](#prerequisite)
+  - [Installation](#installation)
+- [License](#license)
+- [Acknowledgment](#acknowledgment)
 ## Buisness Need
 Redash chatbot add-on: LLM based chatbot for Advanced Data Analytics, Visualisation, and Automated Insight Extraction This blog post explores the exciting realm of Achat bot to extract query form natural languae of clients .
 
