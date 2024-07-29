@@ -22,22 +22,22 @@ Redash chatbot add-on: LLM based chatbot for Advanced Data Analytics, Visualisat
 
 ##  Project Structure	 
                
-  ├───.ipynb_checkpoints
-  ├───Data
-  ├───node_modules
-  ├───notebook
-  ├───redash
-  │   ├───migrations
-  │   │   └───versions
-  │   ├───redash
-  │   ├───scripts
-  │   ├───setup
-  │   ├───tests
-  │   └───viz-lib
-  │       └───__tests__
-  ├───Schema
-  ├───screenshot
-  └───SQL Scripts
+	  ├───.ipynb_checkpoints
+	  ├───Data
+	  ├───node_modules
+	  ├───notebook
+	  ├───redash
+	  │   ├───migrations
+	  │   │   └───versions
+	  │   ├───redash
+	  │   ├───scripts
+	  │   ├───setup
+	  │   ├───tests
+	  │   └───viz-lib
+	  │       └───__tests__
+	  ├───Schema
+	  ├───screenshot
+	  └───SQL Scripts
 
 ## Setup
  ### Prerequisites
@@ -50,10 +50,11 @@ Redash chatbot add-on: LLM based chatbot for Advanced Data Analytics, Visualisat
 
  ### Installation
   ### 1.Clone the Repository
-	   ```bash
+  
     git clone https://github.com/Temsgen5335/Redash-chatbot-add-on1.git
+    
     cd Redash-chatbot-add-on1
-    ```
+   
   ### 2.Install Requirements
      pip install requirements.txt
 
