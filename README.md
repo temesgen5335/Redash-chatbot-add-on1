@@ -63,6 +63,10 @@ Redash chatbot add-on: LLM based chatbot for Advanced Data Analytics, Visualisat
      pip install requirements.txt
 
 
+## License
+
+This project is licensed under the Apache License - see the  [LICENSE](LICENSE) file for details.
+
 ## Challenge by
 
 ![10 Academy](https://static.wixstatic.com/media/081e5b_5553803fdeec4cbb817ed4e85e1899b2~mv2.png/v1/fill/w_246,h_106,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/10%20Academy%20FA-02%20-%20transparent%20background%20-%20cropped.png)
